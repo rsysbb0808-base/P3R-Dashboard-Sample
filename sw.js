@@ -1,7 +1,7 @@
-const CACHE_NAME = 'p3r-dashboard-v1';
+const CACHE_NAME = 'p3r-dashboard-v2-icons';
 const APP_FILES = [
   './', './index.html', './detail.html', './manifest.webmanifest',
-  './css/style.css', './js/app.js', './js/detail.js', './js/pwa.js',
+  './css/style.css', './icons/ui.svg', './js/app.js', './js/detail.js', './js/pwa.js',
   './icons/p3r-app.svg', './icons/p3r-app-192.png', './icons/p3r-app-512.png', './icons/apple-touch-icon.png',
   './personas/thoth.html', './personas/jackfrost.html', './personas/setanta.html',
   './personas/sati.html', './personas/sarasvati.html', './personas/yamatanoorochi.html',
